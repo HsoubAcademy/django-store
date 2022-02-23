@@ -9,9 +9,9 @@
 <p>متجر إلكتروني كامل، يوفر خدمات الدفع عبر PayPal والبطاقات البنكية.</p>
 <h2>المتطلبات</h2>
 <ul>
-  <li>Python >= 3.9<li>
-  <li>pip 21.1.1<li>
-  <li>pipenv<li>
+  <li>Python >= 3.9</li>
+  <li>pip 21.1.1</li>
+  <li>pipenv</li>
 </ul>
 <h2> طريقة التثبيت </h2>
 <ul>
